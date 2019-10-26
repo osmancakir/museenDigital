@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalität | Museen Digitale</title>
+    <link>https://osmancakir.io/museenDigital/tags/digitalitat/</link>
+      <atom:link href="https://osmancakir.io/museenDigital/tags/digitalitat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digitalität</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2019 19:36:00 +0200</lastBuildDate>
+    <image>
+      <url>https://osmancakir.io/museenDigital/img/icon-192.png</url>
+      <title>Digitalität</title>
+      <link>https://osmancakir.io/museenDigital/tags/digitalitat/</link>
+    </image>
+    
+    <item>
+      <title>Kultur der Digitalität</title>
+      <link>https://osmancakir.io/museenDigital/seminar/introduction/</link>
+      <pubDate>Fri, 25 Oct 2019 19:36:00 +0200</pubDate>
+      <guid>https://osmancakir.io/museenDigital/seminar/introduction/</guid>
+      <description>&lt;p&gt;[text entries will be uploaded here]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
