@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Museen Digitale</title>
+    <link>https://osmancakir.io/museenDigital/</link>
+      <atom:link href="https://osmancakir.io/museenDigital/index.xml" rel="self" type="application/rss+xml" />
+    <description>Museen Digitale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://osmancakir.io/museenDigital/img/icon-192.png</url>
+      <title>Museen Digitale</title>
+      <link>https://osmancakir.io/museenDigital/</link>
+    </image>
+    
+  </channel>
+</rss>

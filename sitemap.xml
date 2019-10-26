@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/museenDigital/tags/</loc>
+  </url>
+  
+</urlset>
